@@ -13,7 +13,4 @@ A micro scale open source version of the Curiosity Rover
 - Final product: End of August  
 
 ## Current tasks 
-- Should probs setup task management boards and other related stuff  
-- Resource gathering and intelligence  
-- Component selection
-- General first design
+See [project board](https://github.com/5AUL-R/Curiosity_Junior/projects/1) for to-do list
