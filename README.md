@@ -10,4 +10,10 @@ A micro scale open source version of the Curiosity Rover
 
 ## Deadlines 
 - Proof of concept: End of July
-- Final product: End of August
+- Final product: End of August  
+
+## Current tasks 
+- Should probs setup task management boards and other related stuff  
+- Resource gathering and intelligence  
+- Component selection
+- General first design
